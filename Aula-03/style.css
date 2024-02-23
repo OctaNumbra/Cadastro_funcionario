@@ -23,7 +23,17 @@
     width: 100%;
     border: none;
     background-color: #3366cc;
-    color: #fff;
+    color: #000;
+    padding: 10px;
+    margin: 5px;
+    cursor: pointer;
+}
+.button{
+    border-radius: 5px;
+    width: 100%;
+    border: none;
+    background-color: #f0f0f0;
+    color: #000;
     padding: 10px;
     margin: 5px;
     cursor: pointer;
